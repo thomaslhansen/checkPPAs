@@ -6,3 +6,4 @@ A tool for checking for unused PPA's on your system.
 
 - Live run usage: ./checkPPAs --delete
 
+This script has been strongly inspired by the internet.
